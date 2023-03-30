@@ -16,3 +16,9 @@
   .tag::before {
     content: "#";
   }
+
+  /* capitalize things! */
+
+.capitalize {
+  text-transform: capitalize;
+}
