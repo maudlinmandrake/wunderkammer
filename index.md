@@ -1,38 +1,16 @@
 ---
 layout: page-hero
-title: jekyll-theme-tufte
+title: die wunderkammer
 nav_title: About
-head_title: jekyll-theme-tufte
-subtitle: A modern Jekyll theme based on tufte-css
+head_title: die wunderkammer
+subtitle: marginalia and wonder
 weight: 1
 ---
+![der wunderkammer](assets/der_wunderkammer.png)
 
-[*jekyll-theme-tufte*](https://github.com/ab/jekyll-theme-tufte) is a Jekyll
-theme that implements the design ideas of Edward Tufte.
-It is enabled by [*tufte-css*](https://github.com/edwardtufte/tufte-css), a
-CSS file providing the Tufte-inspired styles.
 
-This is a gem-packaged theme that can be easily installed by including
-*jekyll-theme-tufte* in your `Gemfile`.
+_Die Wunderkammer_: A "wonder room", a "cabinet of wonders", or "cabinet of curiosities". Whatever you want to call it, it's a fancy way of saying a room or cabinet full of cool junk. Wikipedia sez:
 
-Large portions of the theme are derived from prior work to bring *tufte-css* to Jekyll, including:
+> _...these cabinets served as entertainment, as particularly illustrated by the proceedings of the [Royal Society](https://en.wikipedia.org/wiki/Royal_Society "Royal Society"), whose early meetings were often a sort of open floor to any Fellow to exhibit the findings his curiosities led him to. However purely educational or investigative these exhibitions may sound, it is important to note that the Fellows in this period supported the idea of "learned entertainment," or **the alignment of learning with entertainment.**_
 
-* [*tufte-css-jekyll*](https://github.com/sdruskat/tufte-css-jekyll), a classic-style Jekyll theme {% sidenote 'origins' "This theme started out as a gem repackaging of *tufte-css-jekyll*, but then I decided to clean up the layout" %}
-* [*tufte-jekyll*](https://github.com/clayh53/tufte-jekyll), a classic-style theme with a lot of extra visual stuff added
-* [*tufte-pandoc-jekyll*](https://github.com/jez/tufte-pandoc-jekyll), a gem-style theme that uses pandoc under the hood
-* [*ET-Jekyll*](https://github.com/bradleytaunt/ET-Jekyll), a classic-style theme that makes a number of CSS changes
-
-This theme is minimalist and tries to stick closely to the original *tufte-css* styles.
-As a gem-based theme, it is also easier to install and manage compared to
-classic style themes. (Classic Jekyll themes are installed by mixing all the
-files in with your site's files, which creates a big mess.)
-
-Edward Tufte's style is known for extensive use of sidenotes, which *tufte-css* displays next to a half-width layout. {% sidenote "layouts" 'See [Layouts](./page/layouts) for more layout options.' %}
-
-To read more about the Tufte style and its usage, have a look at the [Tufte CSS](./page/tufte-css) demo page.
-
-This theme is responsive and adapts to desktop and mobile screens. (Margin notes
-are displayed inline on narrow screens.) It also supports dark mode detection
-via `prefers-color-scheme`, looking good on dark and light backgrounds alike.
-
-An Atom RSS feed is provided at [`/feed.xml`]({{ site.baseurl }}/feed.xml).
+Consider this a hypertext _wunderkammer_ of yet another stranger on the Internet{% sidenote 'who am i' 'Said stranger is an adult female in her late 30s. She lives in Indianapolis with her husband, her daughter, and their orange tabby, Mochi. She works as a classroom assistant for an elementary Montessori classroom, grew up on the Internet, dropped out of art school, and prefers books over the company of people.' %}. I will ramble on about, in particular order, things like: self-led learning, unschooling and other forms of alternative schooling for kids, parenting, books & the art of reading, philosophy, creativity, and pretending to be a writer, among other things. I don't know if you'll like it here, and truthfully I write better if I think no one is watching. Go ahead and crack open the doors, but do it quietly...

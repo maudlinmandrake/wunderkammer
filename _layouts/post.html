@@ -12,6 +12,12 @@ layout: default
 
 {{ content }}
 
+<p>
+  {% for tag in page.tags %}
+    <a class="tag no-tufte-underline" href="/tags/{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+</p>
+
 <section>
   <div style="clear: both"></div>
   <p class="backarrow"><a href="{% link blog/index.md %}">← Back to all posts</a></p>
