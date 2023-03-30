@@ -191,8 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "947a6bff64387056",
+  "active": "df60d10c762cd37c",
   "lastOpenFiles": [
+    "_layouts/tag_page.html",
+    "_plugins/ext.rb",
     "drafts/The resident amateur.md",
     "drafts/The curious elder.md",
     "drafts/Reading Maria Montessori.md",
@@ -220,7 +222,6 @@
     "templates/posts.md",
     "_site/assets/css/latex.css.map",
     "_sass/_style_base16.monokai.dark.css",
-    "_sass/_site-style.scss",
     "_site/templates/posts.md",
     "_site/templates/Untitled.md",
     "_posts/2022-12-08-why-a-new-jekyll-theme.md",
