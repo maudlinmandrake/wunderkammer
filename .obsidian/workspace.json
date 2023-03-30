@@ -167,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85f28fc25652e334",
+  "active": "df60d10c762cd37c",
   "lastOpenFiles": [
+    "_sass/_style_dark.css",
     "_site/templates/posts.html",
     "_site/templates/posts.md",
     "_site/templates/Untitled.md",
