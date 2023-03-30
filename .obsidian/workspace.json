@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Test.md",
+                "file": "_posts/2023-03-30-testing.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Test.md",
+                "file": "_posts/2023-03-30-testing.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Test.md",
+                "file": "_posts/2023-03-30-testing.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Test.md"
+                "file": "_posts/2023-03-30-testing.md.md"
               }
             }
           }
@@ -203,10 +203,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e55deb40004f304",
+  "active": "df60d10c762cd37c",
   "lastOpenFiles": [
+    "_site/blog/testing-md.html",
+    "_site/tag/test.html",
+    "_site/tag/tags.html",
+    "_site/tag",
     "blog/index.md",
-    "_posts/Test.md",
+    "_posts/2023-03-30-testing.md.md",
     "_layouts/tag_page.html",
     "_plugins/ext.rb",
     "drafts/The resident amateur.md",
@@ -224,16 +228,13 @@
     "_site/drafts/The resident amateur.md",
     "_site/drafts/Reading Maria Montessori.html",
     "_site/drafts",
-    "drafts",
     "reference sheet.md",
     "_site/reference sheet.md",
     "_site/Untitled.md",
     "page/layouts.md",
-    "_site/Reading Maria Montessori.html",
     "_site/Reading Maria Montessori.md",
     "_posts/1914-01-01-lorem-ipsum.md",
     "templates/posts.md",
-    "_site/assets/css/latex.css.map",
     "_site/templates/posts.md",
     "_site/templates/Untitled.md",
     "_posts/2022-12-08-why-a-new-jekyll-theme.md",
