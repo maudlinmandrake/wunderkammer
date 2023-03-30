@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85f28fc25652e334",
+            "id": "8f22e81b301ba486",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "page/tufte-css.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "page/tufte-css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "page/tufte-css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "page/tufte-css.md"
+              }
             }
           }
         ]
@@ -146,8 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df60d10c762cd37c",
+  "active": "8f22e81b301ba486",
   "lastOpenFiles": [
+    "reference sheet.md",
+    "page/tufte-css.md",
+    "_site/reference sheet.md",
+    "_site/Untitled.md",
+    "index.md",
+    "blog/index.md",
+    "page/layouts.md",
+    "Reading Maria Montessori.md",
+    "_site/Reading Maria Montessori.html",
+    "_site/Reading Maria Montessori.md",
+    "_posts/1914-01-01-lorem-ipsum.md",
     "templates/posts.md",
     "_site/assets/css/latex.css.map",
     "_sass/_style_base16.monokai.dark.css",
@@ -158,17 +177,11 @@
     "_site/templates/posts.md",
     "_site/templates/Untitled.md",
     "_site/templates",
-    "_posts/1914-01-01-lorem-ipsum.md",
     "templates",
     "_posts/2022-12-08-why-a-new-jekyll-theme.md",
-    "index.md",
-    "page/tufte-css.md",
-    "page/layouts.md",
     "_site/page/tufte-css.html",
-    "_site/page/layouts.html",
     "screenshot.png",
     "README.md",
-    "blog/index.md",
     "demo/img/rhino.png",
     "demo/img/napoleons-march.png",
     "demo/img/imagequilt-chinese-calligraphy.png",

@@ -4,5 +4,6 @@
   "theme": "system",
   "interfaceFontFamily": "Gill Sans",
   "textFontFamily": "ETBookOT",
-  "monospaceFontFamily": "Cartograph CF"
+  "monospaceFontFamily": "Cartograph CF",
+  "baseFontSize": 13
 }
