@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f22e81b301ba486",
+            "id": "06df9ea51e02db45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/Reading Maria Montessori.md",
+                "file": "reference sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f64028e65f07a060",
+            "id": "ca7c7d4a764fad21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/The resident amateur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc73ab56d4de4350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/The curious elder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "947a6bff64387056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e55deb40004f304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-03-30-testing.md.md",
+                "file": "_posts/2023-03-30-cabinet-of-curiosities.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ead23649f1bf9aec",
@@ -142,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-30-testing.md.md",
+                "file": "_posts/2023-03-30-cabinet-of-curiosities.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-30-testing.md.md",
+                "file": "_posts/2023-03-30-cabinet-of-curiosities.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-30-testing.md.md"
+                "file": "_posts/2023-03-30-cabinet-of-curiosities.md.md"
               }
             }
           }
@@ -203,32 +167,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e55deb40004f304",
+  "active": "ca7c7d4a764fad21",
   "lastOpenFiles": [
+    "_site/tags/wund.html",
+    "_site/tags/ca.html",
+    "_site/tags/curiosity.html",
+    "_site/tags/curios.html",
+    "reference sheet.md",
+    "_posts/2023-03-30-cabinet-of-curiosities.md.md",
+    "drafts/Reading Maria Montessori.md",
+    "drafts/The resident amateur.md",
+    "drafts/The curious elder.md",
+    "blog/index.md",
+    "_posts/2023-03-30-testing.md.md",
+    "_site/blog/cabinet-of-curiosities-md.html",
+    "_site/assets/illustration_of_wunderkammer.jpeg",
+    "assets/illustration_of_wunderkammer.jpeg",
     "_site/tags/test.html",
     "_site/tags/tags.html",
     "_site/tags",
     "_site/blog/testing-md.html",
     "_site/tag/test.html",
     "_site/tag/tags.html",
-    "_site/tag",
-    "blog/index.md",
-    "_posts/2023-03-30-testing.md.md",
-    "_layouts/tag_page.html",
-    "_plugins/ext.rb",
-    "drafts/The resident amateur.md",
-    "drafts/The curious elder.md",
-    "drafts/Reading Maria Montessori.md",
     "drafts/Breaking bread with the dead.md",
     "page/tufte-css.md",
     "index.md",
-    "_site/drafts/Breaking bread with the dead.html",
     "_site/drafts/Breaking bread with the dead.md",
     "_site/drafts/Untitled.md",
-    "_site/drafts/The curious elder.html",
     "_site/drafts/The curious elder.md",
     "_site/drafts/The resident amateur.md",
-    "reference sheet.md",
     "_site/reference sheet.md",
     "_site/Untitled.md",
     "page/layouts.md",
@@ -245,7 +212,6 @@
     "demo/img/imagequilt-chinese-calligraphy.png",
     "demo/img/imagequilt-animal-sounds.png",
     "demo/img/exports-imports.png",
-    "_posts/2022-12-04-code-highlighting.md",
-    "_posts/1914-01-02-lorem-ipsum-translated.md"
+    "_posts/2022-12-04-code-highlighting.md"
   ]
 }
