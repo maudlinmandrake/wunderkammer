@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/1914-01-01-lorem-ipsum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85f28fc25652e334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/posts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "templates/posts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "templates/posts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "templates/posts.md"
               }
             }
           }
@@ -154,10 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "077d3974d5d17d99",
+  "active": "85f28fc25652e334",
   "lastOpenFiles": [
-    "page/tufte-css.md",
+    "_site/templates/posts.html",
+    "_site/templates/posts.md",
+    "_site/templates/Untitled.md",
+    "_site/templates",
+    "_posts/1914-01-01-lorem-ipsum.md",
+    "templates/posts.md",
+    "templates",
+    "_posts/2022-12-08-why-a-new-jekyll-theme.md",
     "index.md",
+    "page/tufte-css.md",
     "page/layouts.md",
     "_site/page/tufte-css.html",
     "_site/page/layouts.html",
@@ -172,8 +193,6 @@
     "demo/img/imagequilt-chinese-calligraphy.png",
     "demo/img/imagequilt-animal-sounds.png",
     "demo/img/exports-imports.png",
-    "_posts/1914-01-01-lorem-ipsum.md",
-    "_posts/2022-12-08-why-a-new-jekyll-theme.md",
     "_posts/2022-12-04-code-highlighting.md",
     "_posts/1914-01-02-lorem-ipsum-translated.md"
   ]
