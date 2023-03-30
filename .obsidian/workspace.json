@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "page/tufte-css.md",
+                "file": "drafts/Reading Maria Montessori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f64028e65f07a060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/The resident amateur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc73ab56d4de4350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/The curious elder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "947a6bff64387056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "page/tufte-css.md",
+                "file": "blog/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "page/tufte-css.md",
+                "file": "blog/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "page/tufte-css.md"
+                "file": "blog/index.md"
               }
             }
           }
@@ -154,16 +191,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f22e81b301ba486",
+  "active": "947a6bff64387056",
   "lastOpenFiles": [
-    "reference sheet.md",
+    "drafts/The resident amateur.md",
+    "drafts/The curious elder.md",
+    "drafts/Reading Maria Montessori.md",
+    "drafts/Breaking bread with the dead.md",
     "page/tufte-css.md",
+    "index.md",
+    "_site/drafts/Breaking bread with the dead.html",
+    "_site/drafts/Breaking bread with the dead.md",
+    "_site/drafts/Untitled.md",
+    "_site/drafts/The curious elder.html",
+    "_site/drafts/The curious elder.md",
+    "_site/drafts/The resident amateur.html",
+    "_site/drafts/The resident amateur.md",
+    "_site/drafts/Reading Maria Montessori.html",
+    "_site/drafts",
+    "drafts",
+    "reference sheet.md",
     "_site/reference sheet.md",
     "_site/Untitled.md",
-    "index.md",
     "blog/index.md",
     "page/layouts.md",
-    "Reading Maria Montessori.md",
     "_site/Reading Maria Montessori.html",
     "_site/Reading Maria Montessori.md",
     "_posts/1914-01-01-lorem-ipsum.md",
@@ -171,15 +221,9 @@
     "_site/assets/css/latex.css.map",
     "_sass/_style_base16.monokai.dark.css",
     "_sass/_site-style.scss",
-    "_sass/_style_base16.monokai.dark.scss",
-    "_sass/_style_dark.css",
-    "_site/templates/posts.html",
     "_site/templates/posts.md",
     "_site/templates/Untitled.md",
-    "_site/templates",
-    "templates",
     "_posts/2022-12-08-why-a-new-jekyll-theme.md",
-    "_site/page/tufte-css.html",
     "screenshot.png",
     "README.md",
     "demo/img/rhino.png",
