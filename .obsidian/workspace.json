@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d867460cf53090c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-03-31-just-a-notebook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ead23649f1bf9aec",
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "page/Now.md",
+                "file": "_posts/2023-03-31-just-a-notebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "page/Now.md",
+                "file": "_posts/2023-03-31-just-a-notebook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "page/Now.md"
+                "file": "_posts/2023-03-31-just-a-notebook.md"
               }
             }
           }
@@ -180,8 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf0c043bd79432a4",
+  "active": "d867460cf53090c2",
   "lastOpenFiles": [
+    "_site/tags/notebooks.html",
+    "_site/tags/diaries.html",
+    "_site/tags/writing.html",
+    "assets/wreck_this_journal.jpg",
+    "drafts/Reading Maria Montessori.md",
+    "_posts/2023-03-31-just-a-notebook.md",
+    "_site/blog/just-a-notebook.html",
+    "_site/assets/wreck_this_journal.jpg",
+    "reference sheet.md",
     "page/layouts.md",
     "page/Now.md",
     "index.md",
@@ -194,19 +214,13 @@
     "_site/blog/testing-m.html",
     "_posts/2023-03-30-testing.m.md",
     "_site/blog/cabinet-of-curiosities.html",
-    "reference sheet.md",
     "_site/tags/wund.html",
     "_site/tags/ca.html",
-    "_site/tags/curios.html",
-    "drafts/Reading Maria Montessori.md",
     "drafts/The resident amateur.md",
     "drafts/The curious elder.md",
     "blog/index.md",
-    "_site/blog/cabinet-of-curiosities-md.html",
     "_site/assets/illustration_of_wunderkammer.jpeg",
     "assets/illustration_of_wunderkammer.jpeg",
-    "_site/tags/test.html",
-    "_site/tags/tags.html",
     "drafts/Breaking bread with the dead.md",
     "_site/drafts/Breaking bread with the dead.md",
     "_site/drafts/Untitled.md",
@@ -218,7 +232,6 @@
     "_posts/1914-01-01-lorem-ipsum.md",
     "templates/posts.md",
     "_site/templates/posts.md",
-    "_site/templates/Untitled.md",
     "screenshot.png",
     "demo/img/rhino.png",
     "demo/img/napoleons-march.png",
