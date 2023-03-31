@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-30-testing.md.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-30-testing.md.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-30-testing.md.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-30-testing.md.md"
+                "file": "index.md"
               }
             }
           }
@@ -169,25 +169,25 @@
   },
   "active": "ca7c7d4a764fad21",
   "lastOpenFiles": [
-    "_posts/2023-03-30-cabinet-of-curiosities.md.md",
+    "_posts/2023-03-30-cabinet-of-curiosities.md",
+    "_site/tags/curiosity.html",
+    "_site/blog/testing-m.html",
+    "_posts/2023-03-30-testing.m.md",
+    "_site/blog/cabinet-of-curiosities.html",
     "reference sheet.md",
     "_site/tags/wund.html",
     "_site/tags/ca.html",
-    "_site/tags/curiosity.html",
     "_site/tags/curios.html",
     "drafts/Reading Maria Montessori.md",
     "drafts/The resident amateur.md",
     "drafts/The curious elder.md",
     "blog/index.md",
-    "_posts/2023-03-30-testing.md.md",
     "_site/blog/cabinet-of-curiosities-md.html",
     "_site/assets/illustration_of_wunderkammer.jpeg",
     "assets/illustration_of_wunderkammer.jpeg",
     "_site/tags/test.html",
     "_site/tags/tags.html",
     "_site/tags",
-    "_site/blog/testing-md.html",
-    "_site/tag/test.html",
     "drafts/Breaking bread with the dead.md",
     "page/tufte-css.md",
     "index.md",
