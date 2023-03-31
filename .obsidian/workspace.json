@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-30-cabinet-of-curiosities.md.md",
+                "file": "_posts/2023-03-30-testing.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-30-cabinet-of-curiosities.md.md",
+                "file": "_posts/2023-03-30-testing.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-30-cabinet-of-curiosities.md.md",
+                "file": "_posts/2023-03-30-testing.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-30-cabinet-of-curiosities.md.md"
+                "file": "_posts/2023-03-30-testing.md.md"
               }
             }
           }
@@ -169,8 +169,8 @@
   },
   "active": "ca7c7d4a764fad21",
   "lastOpenFiles": [
-    "reference sheet.md",
     "_posts/2023-03-30-cabinet-of-curiosities.md.md",
+    "reference sheet.md",
     "_site/tags/wund.html",
     "_site/tags/ca.html",
     "_site/tags/curiosity.html",
