@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06df9ea51e02db45",
+            "id": "817ba6648444181f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reference sheet.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca7c7d4a764fad21",
+            "id": "cf0c043bd79432a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "page/Now.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb4452009a67fabd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "page/layouts.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ead23649f1bf9aec",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "page/Now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "page/Now.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "page/Now.md"
               }
             }
           }
@@ -167,8 +180,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca7c7d4a764fad21",
+  "active": "cf0c043bd79432a4",
   "lastOpenFiles": [
+    "page/layouts.md",
+    "page/Now.md",
+    "index.md",
+    "page/tufte-css.md",
+    "_site/page/Now.html",
+    "_site/page/Now.md",
+    "_site/page/Untitled.md",
     "_posts/2023-03-30-cabinet-of-curiosities.md",
     "_site/tags/curiosity.html",
     "_site/blog/testing-m.html",
@@ -187,30 +207,23 @@
     "assets/illustration_of_wunderkammer.jpeg",
     "_site/tags/test.html",
     "_site/tags/tags.html",
-    "_site/tags",
     "drafts/Breaking bread with the dead.md",
-    "page/tufte-css.md",
-    "index.md",
     "_site/drafts/Breaking bread with the dead.md",
     "_site/drafts/Untitled.md",
     "_site/drafts/The curious elder.md",
     "_site/drafts/The resident amateur.md",
     "_site/reference sheet.md",
     "_site/Untitled.md",
-    "page/layouts.md",
     "_site/Reading Maria Montessori.md",
     "_posts/1914-01-01-lorem-ipsum.md",
     "templates/posts.md",
     "_site/templates/posts.md",
     "_site/templates/Untitled.md",
-    "_posts/2022-12-08-why-a-new-jekyll-theme.md",
     "screenshot.png",
-    "README.md",
     "demo/img/rhino.png",
     "demo/img/napoleons-march.png",
     "demo/img/imagequilt-chinese-calligraphy.png",
     "demo/img/imagequilt-animal-sounds.png",
-    "demo/img/exports-imports.png",
-    "_posts/2022-12-04-code-highlighting.md"
+    "demo/img/exports-imports.png"
   ]
 }
