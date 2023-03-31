@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d867460cf53090c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-03-31-just-a-notebook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-31-just-a-notebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-31-just-a-notebook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-03-31-just-a-notebook.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,14 +175,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d867460cf53090c2",
+  "active": "df60d10c762cd37c",
   "lastOpenFiles": [
+    "_posts/2023-03-31-just-a-notebook.md",
     "_site/tags/notebooks.html",
     "_site/tags/diaries.html",
     "_site/tags/writing.html",
     "assets/wreck_this_journal.jpg",
     "drafts/Reading Maria Montessori.md",
-    "_posts/2023-03-31-just-a-notebook.md",
     "_site/blog/just-a-notebook.html",
     "_site/assets/wreck_this_journal.jpg",
     "reference sheet.md",
