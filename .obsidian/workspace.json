@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "cf0c043bd79432a4",
+            "id": "f7beff1ea7d9c0db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "page/Now.md",
+                "file": "_posts/2023-04-01-building-personal-density.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb4452009a67fabd",
+            "id": "76b9ade76b8b6b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "page/layouts.md",
+                "file": "reference sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-04-01-building-personal-density.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-04-01-building-personal-density.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-04-01-building-personal-density.md"
+              }
             }
           }
         ]
@@ -175,9 +179,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df60d10c762cd37c",
+  "active": "f7beff1ea7d9c0db",
   "lastOpenFiles": [
+    "reference sheet.md",
+    "_posts/2023-04-01-building-personal-density.md",
+    "page/tufte-css.md",
+    "_site/blog/building-personal-density.html",
+    "_site/assets/the_wall.png",
+    "_site/assets/the_wall.gif",
+    "_site/assets/fb1.jpg",
+    "_site/tags/developing-values.html",
+    "_site/tags/books.html",
+    "_site/tags/reading.html",
+    "assets/the_wall.gif",
+    "assets/fb1.jpg",
+    "assets/the_wall.png",
+    "index.md",
+    "page/Now.md",
     "_posts/2023-03-31-just-a-notebook.md",
+    "_posts/2023-03-30-cabinet-of-curiosities.md",
+    "_posts/2023-03-30-testing.m.md",
     "_site/tags/notebooks.html",
     "_site/tags/diaries.html",
     "_site/tags/writing.html",
@@ -185,21 +206,11 @@
     "drafts/Reading Maria Montessori.md",
     "_site/blog/just-a-notebook.html",
     "_site/assets/wreck_this_journal.jpg",
-    "reference sheet.md",
     "page/layouts.md",
-    "page/Now.md",
-    "index.md",
-    "page/tufte-css.md",
     "_site/page/Now.html",
     "_site/page/Now.md",
     "_site/page/Untitled.md",
-    "_posts/2023-03-30-cabinet-of-curiosities.md",
     "_site/tags/curiosity.html",
-    "_site/blog/testing-m.html",
-    "_posts/2023-03-30-testing.m.md",
-    "_site/blog/cabinet-of-curiosities.html",
-    "_site/tags/wund.html",
-    "_site/tags/ca.html",
     "drafts/The resident amateur.md",
     "drafts/The curious elder.md",
     "blog/index.md",
@@ -214,13 +225,6 @@
     "_site/Untitled.md",
     "_site/Reading Maria Montessori.md",
     "_posts/1914-01-01-lorem-ipsum.md",
-    "templates/posts.md",
-    "_site/templates/posts.md",
-    "screenshot.png",
-    "demo/img/rhino.png",
-    "demo/img/napoleons-march.png",
-    "demo/img/imagequilt-chinese-calligraphy.png",
-    "demo/img/imagequilt-animal-sounds.png",
-    "demo/img/exports-imports.png"
+    "templates/posts.md"
   ]
 }
