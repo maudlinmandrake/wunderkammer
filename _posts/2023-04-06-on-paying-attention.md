@@ -17,7 +17,7 @@ Trying to spend more of my personal resources—attention, time, money—thinkin
 
 {% epigraph %}
 for anyone trying to discern what to do w/ their life: PAY ATTENTION TO WHAT YOU PAY ATTENTION TO. that's pretty much all the info u need.
-<footer>Amy Krouse Rosenthal (@missamykr), <cite><a href="(https://twitter.com/missamykr/status/312564535242395648">Twitter</a></cite></footer>
+<footer>Amy Krouse Rosenthal (@missamykr), <cite><a href="https://twitter.com/missamykr/status/312564535242395648">Twitter</a></cite></footer>
 {% endepigraph %}
 
 I'm trying to adjust the flow of stimuli in my life, where it comes from and where it's getting redirected to. I liberally block and mute people on social media, and I've even turned off retweets for several people I follow: I love their original content but they retweet a lot of garbage (I still really like you! I probably retweet garbage too!). In meatspace, I'm trying to open a book before I open Reddit and I try to open my text editor of choice before I open the browser. I'm getting picky about my books, which is why I've been trying to read old books (see my entry on [building personal density](https://diewunderkammer.co/blog/building-personal-density))
