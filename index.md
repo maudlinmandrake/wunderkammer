@@ -19,3 +19,9 @@ _Die Wunderkammer_: A "wonder room", a "cabinet of wonders", or "cabinet of curi
 <p>{% for post in site.posts limit:5 %}  
   <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>—<span style="font-style: italic">{{ post.date | date: '%B %-d' }}</span></li>  
 {% endfor %}</p>
+
+## Get this in your mailbox
+
+I aggregate this newsletter on Substack. If you want to get these posts in your inbox or want to be able to comment on something I've written, this is how you can do it!
+
+<iframe src="https://diewunderkammer.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background: #fffff8;" frameborder="0" scrolling="no"></iframe>

@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-06-on-paying-attention.md",
+                "file": "page/tufte-css.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-06-on-paying-attention.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-06-on-paying-attention.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-06-on-paying-attention.md"
+                "file": "index.md"
               }
             }
           }
@@ -179,14 +178,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fbe29079b5a739e",
+  "active": "817ba6648444181f",
   "lastOpenFiles": [
+    "page/tufte-css.md",
+    "index.md",
+    "reference sheet.md",
+    "_posts/2023-04-06-on-paying-attention.md",
     "_site/blog/on-paying-attention.html",
     "_site/tags/thoughts-on-how-to-live.html",
-    "reference sheet.md",
     "_posts/2023-04-01-building-personal-density.md",
-    "_posts/2023-04-06-on-paying-attention.md",
-    "page/tufte-css.md",
     "_site/blog/building-personal-density.html",
     "_site/assets/the_wall.png",
     "_site/assets/the_wall.gif",
@@ -197,7 +197,6 @@
     "assets/the_wall.gif",
     "assets/fb1.jpg",
     "assets/the_wall.png",
-    "index.md",
     "page/Now.md",
     "_posts/2023-03-31-just-a-notebook.md",
     "_posts/2023-03-30-cabinet-of-curiosities.md",
@@ -210,7 +209,6 @@
     "_site/blog/just-a-notebook.html",
     "_site/assets/wreck_this_journal.jpg",
     "page/layouts.md",
-    "_site/page/Now.html",
     "_site/page/Now.md",
     "_site/page/Untitled.md",
     "drafts/The resident amateur.md",
