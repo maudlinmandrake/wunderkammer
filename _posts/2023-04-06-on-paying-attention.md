@@ -21,3 +21,15 @@ for anyone trying to discern what to do w/ their life: PAY ATTENTION TO WHAT YOU
 {% endepigraph %}
 
 I'm trying to adjust the flow of stimuli in my life, where it comes from and where it's getting redirected to. I liberally block and mute people on social media, and I've even turned off retweets for several people I follow: I love their original content but they retweet a lot of garbage (I still really like you! I probably retweet garbage too!). In meatspace, I'm trying to open a book before I open Reddit and I try to open my text editor of choice before I open the browser. I'm getting picky about my books, which is why I've been trying to read old books (see my entry on [building personal density](https://diewunderkammer.co/blog/building-personal-density))
+
+## what i've been paying attention to
+
+I'll put my money where my mouth is and share some of the things I've been reading or revisiting frequently:
+
+1. [This Twitter thread on ambition](https://twitter.com/visakanv/status/1451147667732525063) by [@visakanv](https://twitter.com/visakanv) {% sidenote 'sn-rent-free' 'This thread lives rent-free in my head; I think about it a lot when considering my actions and whether or not they align with my goals' %}
+2. Montaigne's _Complete Essays_
+3. Maria Montessori's _The Discovery of the Child_ (partially for professional development, partially because I'm a Montessori fangirl)
+4. _Succession_ on HBO
+5. [How to Be Cool](https://mindmine.substack.com/p/how-to-be-cool), from [@isabelunraveled](https://twitter.com/isabelunraveled)'s Substack
+6. _At the Existentialist Cafe_, by Sarah Bakewell {% sidenote 'sn-sarah-bakewell' 'Her books are some of my favorite philosophy reads. Her book on Montaigne, _How to Live_, should be on everyone&#39;s bookshelf, right next to a copy of Montaigne&#39;s essays' %}
+7. _The History of Western Philosophy_, by Bertrand Russell
