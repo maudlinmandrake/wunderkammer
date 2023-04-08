@@ -4,7 +4,7 @@ title: On paying attention
 subtitle: 
 date: 2023-04-06
 author: JRM
-tags: ["thoughts on how to live"]
+tags: ["philosophy"]
 ---
 {% epigraph %}
 Tell me what you pay attention to and I will tell you who you are

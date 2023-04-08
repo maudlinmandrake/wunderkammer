@@ -14,7 +14,7 @@ layout: default
 
 <p>
   {% for tag in page.tags %}
-    <a class="tag no-tufte-underline" href="/tags/{{ tag }}/">{{ tag }}</a>
+    <a class="tag no-tufte-underline" href="/tags/{{ tag | replace: " ","-" }}/">{{ tag }}</a>
     {% endfor %}
 </p>
 

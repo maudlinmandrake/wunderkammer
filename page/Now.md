@@ -7,6 +7,10 @@ subtitle: Updated March 30th, 2023
 weight: 3
 ---
 
+## Learning how to roller skate
+
+As a kid, roller rinks were a regular mainstay in my life. All of my friends had their birthday parties at the local rink. My ability to skate as time went on disappeared, because roller rinks started closing in droves around the same time that malls started to peeter out. Well, I got really inspired by all the cute roller girls on Tik Tok and was desperate to find a way to 
+
 ## Working as a classroom assistant
 
 After volunteering and substituting at my daughter's Montessori school for the past year, I was offered a full-time position as the classroom assistant for the elementary classroom. It was an immediate yes, as I adore Maria Montessori's philosophy, and volunteering to help with the robotics club in the fall of 2022 made me fall head over heels in love with elementary/middle-school aged kids. They're whip-smart and hilarious in ways I didn't know was possible in child. Since I've accepted the position, I've been working through Maria Montessori's writing by working through The Montessori Series{% sidenote 'sn-reading-maria' 'I am currently on the first book in the series, _The Absorbent Mind_, which is a slog to get through. Her writing is dense. — **JRM, March 31, 2023**' %} by the Montessori-Pierson Publishing Company, who maintains/cares for and the publishing rights to all of Maria's work. 

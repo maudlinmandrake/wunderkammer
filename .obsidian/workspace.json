@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "page/Now.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "982d349b71344760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-08-thoughts-as-fake-currency.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2023-04-08-thoughts-as-fake-currency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2023-04-08-thoughts-as-fake-currency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_posts/2023-04-08-thoughts-as-fake-currency.md"
               }
             }
           }
@@ -178,35 +191,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "817ba6648444181f",
+  "active": "982d349b71344760",
   "lastOpenFiles": [
-    "page/tufte-css.md",
-    "index.md",
-    "reference sheet.md",
-    "_posts/2023-04-06-on-paying-attention.md",
-    "_site/blog/on-paying-attention.html",
     "_site/tags/thoughts-on-how-to-live.html",
+    "_site/tags/thoughts-on-how-to-.html",
+    "_site/tags/keeping-a-diary.html",
+    "_posts/2023-03-31-just-a-notebook.md",
+    "_site/tags/philosophy.html",
+    "_site/tags/diaries.html",
     "_posts/2023-04-01-building-personal-density.md",
+    "_posts/2023-04-06-on-paying-attention.md",
+    "_posts/2023-04-08-thoughts-as-fake-currency.md",
+    "_site/tags/keeping-.html",
+    "_site/tags/diari.html",
+    "_posts/2023-03-30-cabinet-of-curiosities.md",
+    "_site/blog/thoughts-as-fake-currency.html",
+    "page/Now.md",
+    "index.md",
+    "page/tufte-css.md",
+    "reference sheet.md",
+    "_site/blog/on-paying-attention.html",
     "_site/blog/building-personal-density.html",
     "_site/assets/the_wall.png",
     "_site/assets/the_wall.gif",
     "_site/assets/fb1.jpg",
     "_site/tags/developing-values.html",
-    "_site/tags/books.html",
-    "_site/tags/reading.html",
     "assets/the_wall.gif",
     "assets/fb1.jpg",
     "assets/the_wall.png",
-    "page/Now.md",
-    "_posts/2023-03-31-just-a-notebook.md",
-    "_posts/2023-03-30-cabinet-of-curiosities.md",
     "_posts/2023-03-30-testing.m.md",
-    "_site/tags/notebooks.html",
-    "_site/tags/diaries.html",
-    "_site/tags/writing.html",
     "assets/wreck_this_journal.jpg",
     "drafts/Reading Maria Montessori.md",
-    "_site/blog/just-a-notebook.html",
     "_site/assets/wreck_this_journal.jpg",
     "page/layouts.md",
     "_site/page/Now.md",
@@ -223,7 +238,6 @@
     "_site/drafts/The resident amateur.md",
     "_site/reference sheet.md",
     "_site/Untitled.md",
-    "_site/Reading Maria Montessori.md",
-    "_posts/1914-01-01-lorem-ipsum.md"
+    "_site/Reading Maria Montessori.md"
   ]
 }
